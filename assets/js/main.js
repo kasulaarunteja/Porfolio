@@ -84,3 +84,4 @@ const showMenu = (toggleId, navId) => {
   
   /*SCROLL CONTACT*/
     // sr.reveal(".contact-input", { interval: 200 });
+
